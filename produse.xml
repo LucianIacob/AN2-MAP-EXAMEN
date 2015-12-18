@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProdus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Produs>
+    <denumire>Sunca</denumire>
+    <pret>316</pret>
+    <categorie>Carne</categorie>
+    <procent>12</procent>
+  </Produs>
+  <Produs>
+    <denumire>Carne tocata</denumire>
+    <pret>474</pret>
+    <categorie>Carne</categorie>
+    <procent>12</procent>
+  </Produs>
+  <Produs>
+    <denumire>Lapte</denumire>
+    <pret>100</pret>
+    <categorie>Lactate</categorie>
+    <procent>0</procent>
+  </Produs>
+  <Produs>
+    <denumire>Branza</denumire>
+    <pret>130</pret>
+    <categorie>Lactate</categorie>
+    <procent>0</procent>
+  </Produs>
+  <Produs>
+    <denumire>Iaurt</denumire>
+    <pret>120</pret>
+    <categorie>Lactate</categorie>
+    <procent>0</procent>
+  </Produs>
+  <Produs>
+    <denumire>Placinte</denumire>
+    <pret>139</pret>
+    <categorie>Fainoase</categorie>
+    <procent>39</procent>
+  </Produs>
+  <Produs>
+    <denumire>Cornuri</denumire>
+    <pret>130</pret>
+    <categorie>Fainoase</categorie>
+    <procent>39</procent>
+  </Produs>
+  <Produs>
+    <denumire>Paine</denumire>
+    <pret>191</pret>
+    <categorie>Fainoase</categorie>
+    <procent>39</procent>
+  </Produs>
+</ArrayOfProdus>
